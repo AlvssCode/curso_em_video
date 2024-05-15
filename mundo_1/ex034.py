@@ -11,5 +11,4 @@ else:
 
 novo = salario + aumento
 
-print(
-    f"O valor do aumento é de R${aumento:.2f}. O novo salário é de R${novo:.2f}.")
+print(f"O valor do aumento é de R${aumento:.2f}. O novo salário é de R${novo:.2f}.")
