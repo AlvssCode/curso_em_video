@@ -38,7 +38,7 @@
 
 ## Condições em Python (if..else)
 - Exercício 28 – Jogo da Adivinhação v.1.0 [Jogo da Adivinhação v.1.0](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex028.py)
-- Exercício 29 – Radar eletrônico [Radar eletrônico](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex028.py)
+- Exercício 29 – Radar eletrônico [Radar eletrônico](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex029.py)
 - Exercício 30 – Par ou Ímpar? [Par ou Ímpar?](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex030.py)
 - Exercício 31 – Custo da Viagem [Custo da Viagem](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex031.py)
 - Exercício 32 – Ano Bissexto [Ano Bissexto](https://github.com/AlvssCode/curso_em_video/blob/main/mundo_1/ex032.py)
