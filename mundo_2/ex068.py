@@ -23,10 +23,8 @@ while True:
 
         if (soma % 2 == 0 and choice == "P") or (soma % 2 != 0 and choice == "I"):
             wins += 1
-            print(
-                f"{soma} é {'par' if soma % 2 == 0 else 'ímpar'}, então você ganhou!")
+            print(f"{soma} é {'par' if soma % 2 == 0 else 'ímpar'}, então você ganhou!")
         else:
-            print(
-                f"{soma} é {'par' if soma % 2 == 0 else 'ímpar'}, então você perdeu.")
+            print(f"{soma} é {'par' if soma % 2 == 0 else 'ímpar'}, então você perdeu.")
             print(f"Vitórias consecutivas: {wins}")
             break
