@@ -31,23 +31,19 @@ while opcao_usuario != 5:
         opcao_usuario = int(input("Escolha uma opção: "))
     else:
         if opcao_usuario == 1:
-            print(
-                f"Você escolheu adição! Resultado da adição: {primeiro_numero} + {segundo_numero} = {primeiro_numero + segundo_numero}")
+            print(f"Você escolheu adição! Resultado da adição: {primeiro_numero} + {segundo_numero} = {primeiro_numero + segundo_numero}")
             print(menu)
             opcao_usuario = int(input("Escolha uma opção: "))
         elif opcao_usuario == 2:
-            print(
-                f"Você escolheu multiplicação! Resultado da multiplicação: {primeiro_numero} x {segundo_numero} = {primeiro_numero * segundo_numero:.0f}")
+            print(f"Você escolheu multiplicação! Resultado da multiplicação: {primeiro_numero} x {segundo_numero} = {primeiro_numero * segundo_numero:.0f}")
             print(menu)
             opcao_usuario = int(input("Escolha uma opção: "))
         elif opcao_usuario == 3:
             if primeiro_numero > segundo_numero:
-                print(
-                    f"O maior número é {primeiro_numero} e o menor número é {segundo_numero}.")
+                print(f"O maior número é {primeiro_numero} e o menor número é {segundo_numero}.")
                 print(menu)
             elif segundo_numero > primeiro_numero:
-                print(
-                    f"O maior número é {segundo_numero} e o menor número é {primeiro_numero}.")
+                print(f"O maior número é {segundo_numero} e o menor número é {primeiro_numero}.")
                 print(menu)
             else:
                 print("Os dois números são iguais.")
