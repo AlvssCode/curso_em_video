@@ -25,5 +25,4 @@ while True:
 
 print(f'O valor total da compra foi R${soma_total:.2f}')
 print(f'Temos {contagem_produtos_caros} produtos com valor superior a R$1000.00')
-print(
-    f'O item mais barato foi {produto_mais_barato} que custa R${preco_menor:.2f}')
+print(f'O item mais barato foi {produto_mais_barato} que custa R${preco_menor:.2f}')
