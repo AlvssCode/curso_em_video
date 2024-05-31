@@ -24,8 +24,7 @@ for i in range(2):
 media_idade = total_idade / 2
 
 print(f"A média de idade do grupo é de {media_idade} anos.")
-print(
-    f"O nome do homem mais velho é {old_men} e ele tem {age_old_men} anos")
+print(f"O nome do homem mais velho é {old_men} e ele tem {age_old_men} anos")
 
 if mulheres_menos_20 == 0:
     print("Nenhuma mulher tem menos de 20 anos.")
